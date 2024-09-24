@@ -1,6 +1,32 @@
 {
   "posts": [
-    { "id": "1", "title": "a title", "author": "Gim" },
-    { "id": "2", "title": "another title", "author": "Gim" }
+    {
+      "id": "1",
+      "title": "a title",
+      "author": "Gim"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "author": "Gim"
+    },
+    {
+      "id": "9673",
+      "title": "wefrew",
+      "content": "efwew",
+      "author": "ewffwefew"
+    },
+    {
+      "id": "0ea4",
+      "title": "안녕하세요 오늘은 김치찌개 요리에 대해서 알려드리겠습니다",
+      "content": "김치찌개에는 다양한 재료가 들어갑니다. 대표적인 재료를 알려드리자면\n돼지고기, 김치, 고춧가루, 물, 다시다, 양파 등등 다양한 재료를 기호에 맞게 넣어서 조리하면 됩니다. 그러면 조리 방법에 대해서 일단",
+      "author": "ㅇㅇ"
+    },
+    {
+      "id": "7453",
+      "title": "세상에 얼굴이 네모난 인간이 있다??",
+      "content": "민지우임 ㅋ",
+      "author": "박시후"
+    }
   ]
 }
